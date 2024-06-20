@@ -13,7 +13,7 @@ def merge(arr, si, mid, ei):
 def merge_sort(arr, si, ei):
     """https://takeuforward.org/data-structure/merge-sort-algorithm/"""
     if si >= ei:
-        return arr
+        return
     mid = (si + ei) // 2
     merge_sort(arr, si, mid)
     merge_sort(arr, mid + 1, ei)
