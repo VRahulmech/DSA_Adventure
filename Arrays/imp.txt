@@ -1,0 +1,6 @@
+easy >> Subarr_pos
+easy >> cons_ones
+easy >> subarr_neg
+medium >> sort_0_1_2
+medium >> max_sum_subarr >> Kadane's algorithm
+medium >> majority_element >> moore's voting algorithm
