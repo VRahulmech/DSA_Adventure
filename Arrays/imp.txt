@@ -4,3 +4,7 @@ easy >> subarr_neg
 medium >> sort_0_1_2
 medium >> max_sum_subarr >> Kadane's algorithm
 medium >> majority_element >> moore's voting algorithm
+medium >> next_permutation
+medium >> matrix_0
+
+*** rotate 90 deg clockwise of a matrix = transpose + reverse each row
